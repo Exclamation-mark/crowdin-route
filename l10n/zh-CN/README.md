@@ -49,7 +49,7 @@ url=lop`
 
 ## 如何在仪表板中设置小部件数量限制？ （默认为 30）
 
-可以在`.env`文件中设置`DSB_WIDGET_MAX_COUNT`参数来实现。
+可以通过在 `room-server` 下的 `.env.default` 文件中设置 `API_MAX_MODIFY_RECORD_COUNTS` 参数来实现。
 
 ## 我可以增加 API 的请求速率限制吗？ （默认为 5）
 
@@ -61,7 +61,7 @@ url=lop`
 
 ## 如何增加每次 API 调用插入行记录的数量？ （默认为 10）
 
-可以通过在 `room-server` 下的 `.env.default` 文件中设置 `API_MAX_MODIFY_RECORD_COUNTS` 参数来实现。
+可以在`.env`文件中设置`DSB_WIDGET_MAX_COUNT`参数来实现。
 
 
 ## 如何更新到最新的版本?
@@ -71,7 +71,7 @@ url=lop`
 
 `.env` 文件中的配置属性也可以通过指定环境变量 `NGINX_HTTP_PORT` 来覆盖。
 
-例如： 例如：NGINX_HTTP_PORT=8080
+例如： 例如： 例如：NGINX_HTTP_PORT=8080
 
 ## why is me?
 
