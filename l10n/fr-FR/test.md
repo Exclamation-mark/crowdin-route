@@ -8,19 +8,20 @@ Now I add a paragraph.
 
 I add paragraph twice.
 
-`
-int a = 10;`
-
-il s'agit d'un code.
-
-```conf
-hôte=localhost
+```java
+int a = 10;
 ```
 
-C'est plutôt bien.
+this is a code.
 
-Par exemple. Il serait défini comme NGINX_HTTP_PORT=8080
+```conf
+host=localhost
+```
+
+It's pretty good.
+
+For example. It would be set as NGINX_HTTP_PORT=8080
 
 ## titre 2
 
-Je trouve quelque chose dans le fichier `env` . J'aime mon pays.
+I find something in the `env` file.I love my country.
