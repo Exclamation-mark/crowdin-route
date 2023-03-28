@@ -8,6 +8,9 @@
 
 I add paragraph twice.
 
+`
+int a = 10;`
+
 这是一个代码。
 
 ```conf
