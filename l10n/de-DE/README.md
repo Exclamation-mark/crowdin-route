@@ -1,8 +1,8 @@
-# How to configure the SMTP server?
+# Wie konfiguriere ich den SMTP-Server?
 
-By default, APITable doesn't configure the SMTP server, which means you cannot invite users since it require the email sending feature.
+Standardmäßig konfiguriert APITable den SMTP-Server nicht, was bedeutet, dass Sie keine Benutzer einladen können, da dies die E-Mail-Versand-Funktion erfordert.
 
-It is needed to modify `.env` configuration using self email, and restart backend server.
+Es wird benötigt um die Konfiguration von `.env` mittels Selbst-E-Mail zu ändern und den Backend-Server neu zu starten.
 
 ```conf
 MAIL_ENABLED=true
@@ -14,43 +14,43 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
-In addition, some mailboxes need to be enabled in the background to use smtp. For details, you can search for xxx mailbox smtp tutorial.
+Zusätzlich müssen einige Postfächer im Hintergrund aktiviert werden, um smtp nutzen zu können. Für Details, können Sie nach xxx Postfach smtp Tutorial suchen.
 
 
-## Performance problem under macOS M1 docker run?
+## Leistungsproblem unter macOS M1 Docker ausführen?
 
-## Where is the API documentation?
+## Wo ist die API-Dokumentation?
 
-You can access the API documentation by starting a local server:
+Sie können auf die API-Dokumentation zugreifen, indem Sie einen lokalen Server starten:
 
-1. The documentation address for the Backend server is: <http://localhost:8081/api/v1/doc.html>
+1. Die Dokumentationsadresse für den Backend Server ist: <http://localhost:8081/api/v1/doc.html>
 
-2. The documentation address for the Room server is: <http://localhost:3333/nest/v1/docs>
+2. Die Dokumentationsadresse für den Backend Server ist: [http://localhost:3333/api/v1/](http://localhost:3333/nest/v1/docs)
 
-If you are interested in cloud service API interfaces, you can also directly access the online API documentation at <https://developers.apitable.com/api/introduction>.
+Wenn Sie an Cloud-API-Schnittstellen interessiert sind, können Sie auch direkt auf die Online-API-Dokumentation unter <https://developers.apitable.com/api/introduction> zugreifen.
 
-## How to set the limitation of widget quantity in dashboard? (30 by default)
+## Wie kann ich die Anzahl der Widgets im Dashboard begrenzen? (30 Standard)
 
-This can be achieved by setting the `DSB_WIDGET_MAX_COUNT` parameter in the `.env` file.
+Dies kann durch das Setzen des `DSB_WIDGET_MAX_COUNT` in der Datei `.env` erreicht werden.
 
-## Can I increase request rate limit of the API? (5 by default)
+## Kann ich das Anfragelimit der API erhöhen? (5 Standard)
 
-In the `.env.default` file of `room-server`, there are two parameters that can adjust request frequency:
+In der `.env.default` Datei von `Raum-Server`gibt es zwei Parameter, die die Zugriffsfrequenz anpassen können:
 
-1. You can set `LIMIT_POINTS` and `LIMIT_DURATION` to indicate the number of requests that can be made in a unit time period. Where LIMIT_POINTS is the number of times and LIMIT_DURATION is the duration, measured in seconds.
+1. Sie können `LIMIT_POINTS` und `LIMIT_DURATION` einstellen, um die Anzahl der Anfragen anzugeben, die innerhalb eines Zeitraums der Einheit gestellt werden können. Wo LIMIT_POINTS die Anzahl der Male, und LIMIT_DURATION ist die Dauer, gemessen in Sekunden.
 
-2. You can set the parameter `LIMIT_WHITE_LIST` to set a separate request frequency for specific users. Its value is a JSON string, and its structure can refer to `Map<string, IBaseRateLimiter>`.
+2. Sie können den Parameter `LIMIT_WHITE_LIST` so einstellen, dass eine separate Abfragefrequenz für bestimmte Benutzer festgelegt wird. Sein Wert ist ein JSON-String und seine Struktur kann sich auf `Karte<string, IBaseRateLimiter>` beziehen.
 
-## How to increase the number of records inserted per API call? (10 by default)
+## Wie erhöht man die Anzahl der Datensätze, die pro API-Aufruf eingefügt werden? (10 Standard)
 
-This can be achieved by setting the `API_MAX_MODIFY_RECORD_COUNTS` parameter in the `.env.default` file of `room-server`.
-
-
-## How to upgrade to the newest release version?
+Dies kann durch das Setzen des `API_MAX_MODIFY_RECORD_COUNTS` im `.env.default` Datei von `Raum-Server` erreicht werden.
 
 
-## How to change the default 80 port?
+## Wie kann ich auf die neueste Release-Version aktualisieren?
 
-Configuration properties in  the `.env` file can also be overridden  by specifying them env vars `NGINX_HTTP_PORT`
 
-For example. It would be set as NGINX_HTTP_PORT=8080
+## Wie ändere ich den Standard-80-Port?
+
+Konfigurationseigenschaften in der Datei `.env` können auch überschrieben werden, indem sie env vars angeben `NGINX_HTTP_PORT`
+
+Zum Beispiel. Es würde als NGINX_HTTP_PORT=8080 gesetzt werden
