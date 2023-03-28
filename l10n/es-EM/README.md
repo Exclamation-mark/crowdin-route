@@ -14,7 +14,7 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=su_email
 ```
 
-I add some thing: `
+Añado algunas cosas: `
 xxa=xsd
 kdsfds=lok`
 
