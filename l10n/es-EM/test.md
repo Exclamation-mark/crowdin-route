@@ -7,7 +7,11 @@ I want to write something.
 
 this is a code.
 
-hh,you can run `console.log`
+hh,you can run
+
+```js
+console.log
+```
 
 ```conf
 host=localhost
