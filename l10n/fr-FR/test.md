@@ -1,19 +1,21 @@
-# title 1
+# titre 1
 
-I want to write something.
+Je veux écrire quelque chose.
 
 ## code
 
-this is a code.
+Now I add a paragraph.
+
+il s'agit d'un code.
 
 ```conf
-host=localhost
+hôte=localhost
 ```
 
-It's pretty good.
+C'est plutôt bien.
 
-For example. It would be set as NGINX_HTTP_PORT=8080
+Par exemple. Il serait défini comme NGINX_HTTP_PORT=8080
 
-## title 2
+## titre 2
 
-I find something in the `env` file.I love my country.
+Je trouve quelque chose dans le fichier `env` . J'aime mon pays.
