@@ -4,10 +4,13 @@ I want to write something.
 
 ## code
 
+Now I add a paragraph.
+
 this is a code.
 
-`
-host=localhost`
+```conf
+host=localhost
+```
 
 It's pretty good.
 
@@ -15,4 +18,4 @@ For example. It would be set as NGINX_HTTP_PORT=8080
 
 ## title 2
 
-I find something in the env file.I love my country.
+I find something in the `env` file.I love my country.
