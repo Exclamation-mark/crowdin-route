@@ -7,8 +7,9 @@
 
 这是一个代码。
 
-`
-host=localhost`
+```conf
+host=localhost
+```
 
 It's pretty good.
 
