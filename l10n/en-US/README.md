@@ -23,6 +23,15 @@ kdsfds=lok
 
 I like play basketball.
 
+I add some code like .env file define.
+
+such like:
+``
+abc=code
+kio=ok
+url=lop
+``
+
 I like banana.
 
 In addition, some mailboxes need to be enabled in the background to use smtp.
@@ -66,3 +75,7 @@ This can be achieved by setting the `API_MAX_MODIFY_RECORD_COUNTS` parameter in 
 Configuration properties in  the `.env` file can also be overridden  by specifying them env vars `NGINX_HTTP_PORT`
 
 For example. It would be set as NGINX_HTTP_PORT=8080
+
+## why is me?
+
+Because I am the hero.
