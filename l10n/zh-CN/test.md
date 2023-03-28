@@ -4,21 +4,11 @@
 
 ## 代码
 
-现在我增加一段。
-
-我添加两段。
-
-`新代码`
-
-```java
-int a = 10;
-```
 
 这是一个代码。
 
-```conf
-host=localhost
-```
+`
+host=localhost`
 
 这很好。
 
