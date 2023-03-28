@@ -14,7 +14,7 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
-I add some thing: `
+我添加了一些东西： `
 xxa=xsd
 kdsfds=lok`
 
