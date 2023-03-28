@@ -14,6 +14,12 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
+I add some thing:
+``
+xxa=xsd
+kdsfds=lok
+``
+
 In addition, some mailboxes need to be enabled in the background to use smtp.
 For details, you can search for xxx mailbox smtp tutorial.
 
