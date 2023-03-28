@@ -4,15 +4,6 @@ I want to write something.
 
 ## code
 
-Now I add a paragraph.
-
-I add paragraph twice.
-
-`new code`
-
-```java
-int a = 10;
-```
 
 this is a code.
 
