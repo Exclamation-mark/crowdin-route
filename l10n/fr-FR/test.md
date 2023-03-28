@@ -6,6 +6,11 @@ Je veux écrire quelque chose.
 
 Now I add a paragraph.
 
+I add paragraph twice.
+
+`
+int a = 10;`
+
 il s'agit d'un code.
 
 ```conf
