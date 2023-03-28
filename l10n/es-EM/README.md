@@ -23,7 +23,7 @@ kdsfds=lok
 
 Me gusta jugar al baloncesto.
 
-I add some code like .env file define.
+Añado algo de código como archivo .env define.
 
 such like: `
 abc=code
@@ -47,11 +47,11 @@ Puede acceder a la documentación de la API iniciando un servidor local:
 
 Si está interesado en las interfaces API del servicio en la nube, también puede acceder directamente a la documentación de la API en línea en [https://Developopers.apitable.com/api/introduction](https://developers.apitable.com/api/introduction).
 
-## ¿Cómo establecer la limitación de la cantidad de widgets en el panel? (30 por defecto) (30 por defecto)
+## ¿Cómo establecer la limitación de la cantidad de widgets en el panel? (30 por defecto) (30 por defecto) (30 por defecto)
 
 Esto se puede lograr configurando el parámetro `API_MAX_MODIFY_RECORD_COUNTS` en el archivo `.env.default` de `room-server`.
 
-## ¿Puedo aumentar la tasa límite de solicitud de la API? (5 por defecto) (5 por defecto)
+## ¿Puedo aumentar la tasa límite de solicitud de la API? (5 por defecto) (5 por defecto) (5 por defecto)
 
 En el archivo `.env.default` de `room-server`, hay dos parámetros que pueden ajustar la frecuencia de la solicitud:
 
@@ -59,7 +59,7 @@ En el archivo `.env.default` de `room-server`, hay dos parámetros que pueden aj
 
 2. Puede establecer el parámetro `LIMIT_WHITE_LIST` para establecer una frecuencia de solicitud separada para usuarios específicos. Su valor es una cadena JSON, y su estructura puede referirse a `Mapa<string, IBaseRateLimiter>`.
 
-## ¿Cómo aumentar el número de registros insertados por llamada API? (10 por defecto) (10 por defecto)
+## ¿Cómo aumentar el número de registros insertados por llamada API? (10 por defecto) (10 por defecto) (10 por defecto)
 
 Esto se puede lograr estableciendo el parámetro `DSB_WIDGET_MAX_COUNT` en el archivo `.env`.
 
@@ -73,10 +73,10 @@ Las propiedades de configuración en el archivo `.env` también pueden ser reemp
 
 Por ejemplo,. Se establecería como NGINX_HTTP_PORT=8080
 
-## why is me?
+## ¿Por qué?
 
-Because I am the hero.
+Porque soy el héroe.
 
-## How about you?
+## ¿Qué hay de ti?
 
-I'm fine.
+Estoy bien.

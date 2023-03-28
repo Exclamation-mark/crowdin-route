@@ -23,7 +23,7 @@ kdsfds=lok
 
 Ich mag Basketball spielen.
 
-I add some code like .env file define.
+Ich füge einen Code wie .env file define.
 
 such like: `
 abc=code
@@ -73,10 +73,10 @@ Konfigurationseigenschaften in der Datei `.env` können auch überschrieben werd
 
 Zum Beispiel. Es würde als NGINX_HTTP_PORT=8080 gesetzt werden
 
-## why is me?
+## warum bin ich?
 
-Because I am the hero.
+Weil ich der Held bin.
 
-## How about you?
+## Wie wäre es mit dir?
 
-I'm fine.
+Ich bin in Ordnung.
