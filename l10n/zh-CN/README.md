@@ -7,21 +7,21 @@
 ```conf
 MAIL_ENABLED=true
 MAIL_HOST=smtp.xxx.com
-MAIL_PASSWORD=your_email_password
+MAIL_PASSSWORD=您邮箱密码
 MAIL_PORT=465
 MAIL_SSL_ENABLE=true
 MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
-I add some thing:
+我添加一些东西：
 
 ```
 xxa=xsd
 kdsfds=lok
 ```
 
-I like banana.
+我喜欢香蕉。
 
 另外，有些邮箱需要在后台启用smtp。 详细可以搜索xxx邮箱smtp教程。
 
