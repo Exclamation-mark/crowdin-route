@@ -7,3 +7,5 @@ targets:
 files:
   - source: /l10n/en-US/*.md
     translation: /l10n/%locale%/%original_file_name%
+  - source: /l10n/en-US/*.json
+    translation: /l10n/%locale%/%original_file_name%
