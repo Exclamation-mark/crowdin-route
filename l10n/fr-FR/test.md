@@ -7,6 +7,8 @@ Je veux écrire quelque chose.
 
 this is a code.
 
+hh,you can run `console.log`
+
 ```conf
 host=localhost
 ```

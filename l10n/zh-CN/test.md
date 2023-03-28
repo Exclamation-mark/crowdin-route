@@ -7,14 +7,15 @@
 
 这是一个代码。
 
+hh,你可以运行 `console.log`
+
 ```conf
 host=localhost
 ```
 
-
 这很好。
 
-例如： NGINX_HTTP_PORT=8080。
+例如： NGINX_HTTP_PORT=8080
 
 ## 标题2
 
