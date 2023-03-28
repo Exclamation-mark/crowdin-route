@@ -8,6 +8,10 @@ Now I add a paragraph.
 
 I add paragraph twice.
 
+``
+int a = 10;
+``
+
 this is a code.
 
 ```conf
