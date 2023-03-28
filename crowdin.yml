@@ -5,5 +5,5 @@ targets:
     file: /l10n/%locale%/%original_file_name%
     format: xliff
 files:
-  - source: /l10n/**/*.md
+  - source: /l10n/en-US/*.md
     translation: /l10n/%locale%/%original_file_name%
