@@ -7,7 +7,11 @@
 
 这是一个代码。
 
-hh,你可以运行 `console.log`
+hh,you can run
+
+```js
+console.log
+```
 
 ```conf
 host=localhost
