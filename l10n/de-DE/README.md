@@ -49,7 +49,7 @@ Wenn Sie an Cloud-API-Schnittstellen interessiert sind, können Sie auch direkt 
 
 ## Wie kann ich die Anzahl der Widgets im Dashboard begrenzen? (30 Standard)
 
-Dies kann durch das Setzen des `DSB_WIDGET_MAX_COUNT` in der Datei `.env` erreicht werden.
+Dies kann durch das Setzen des `API_MAX_MODIFY_RECORD_COUNTS` im `.env.default` Datei von `Raum-Server` erreicht werden.
 
 ## Kann ich das Anfragelimit der API erhöhen? (5 Standard)
 
@@ -61,7 +61,7 @@ In der `.env.default` Datei von `Raum-Server`gibt es zwei Parameter, die die Zug
 
 ## Wie erhöht man die Anzahl der Datensätze, die pro API-Aufruf eingefügt werden? (10 Standard)
 
-Dies kann durch das Setzen des `API_MAX_MODIFY_RECORD_COUNTS` im `.env.default` Datei von `Raum-Server` erreicht werden.
+Dies kann durch das Setzen des `DSB_WIDGET_MAX_COUNT` in der Datei `.env` erreicht werden.
 
 
 ## Wie kann ich auf die neueste Release-Version aktualisieren?
