@@ -7,23 +7,23 @@ Il est nécessaire de modifier la configuration `.env` à l'aide de l'email et d
 ```conf
 MAIL_ENABLED=true
 MAIL_HOST=smtp.xxx.com
-MAIL_PASSWORD=your_email_password
+MAIL_PASSWORD=votre_email_password
 MAIL_PORT=465
 MAIL_SSL_ENABLE=true
 MAIL_TYPE=smtp
-MAIL_USERNAME=your_email
+MAIL_USERNAME=votre_email
 ```
 
-I add some thing:
+J'ajoute quelque chose :
 
 ```
 xxa=xsd
 kdsfds=lok
 ```
 
-I like play basketball.
+J'aime jouer au basket-ball.
 
-I like banana.
+J'aime la banane.
 
 De plus, certaines boîtes aux lettres doivent être activées en arrière-plan pour utiliser smtp. Pour plus de détails, vous pouvez rechercher le tutoriel Smtp de la boîte aux lettres xxx.
 
