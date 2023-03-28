@@ -7,23 +7,23 @@ Es necesario modificar la configuración de `.env` usando autoemail, y reiniciar
 ```conf
 MAIL_ENABLED=true
 MAIL_HOST=smtp.xxx.com
-MAIL_PASSWORD=your_email_password
+MAIL_PASSWORD=su_email_password
 MAIL_PORT=465
 MAIL_SSL_ENABLE=true
 MAIL_TYPE=smtp
-MAIL_USERNAME=your_email
+MAIL_USERNAME=su_email
 ```
 
-I add some thing:
+Añado algo más:
 
 ```
 xxa=xsd
 kdsfds=lok
 ```
 
-I like play basketball.
+Me gusta jugar al baloncesto.
 
-I like banana.
+Me gusta el plátano.
 
 Además, algunos buzones de correo deben estar habilitados en segundo plano para usar smtp. Para obtener más detalles, puede buscar el tutorial smtp del buzón de correo xxx.
 
