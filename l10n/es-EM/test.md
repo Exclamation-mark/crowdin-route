@@ -7,9 +7,8 @@ I want to write something.
 
 this is a code.
 
-```conf
-host=localhost
-```
+`
+host=localhost`
 
 It's pretty good.
 
