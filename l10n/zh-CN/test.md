@@ -1,18 +1,18 @@
-# title 1
+# 标题1
 
-I want to write something.
+我想写一些内容。
 
-## code
+## 代码
 
-this is a code.
+这是一个代码。
 
 `
 host=localhost`
 
-It's pretty good.
+这很好。
 
-For example. It would be set as NGINX_HTTP_PORT=8080
+例如： NGINX_HTTP_PORT=8080
 
-## title 2
+## 标题2
 
-I find something in the env file.I love my country.
+我在 env 文件中找到一些东西。我喜欢我的国家。
