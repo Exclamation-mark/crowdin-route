@@ -23,6 +23,13 @@ kdsfds=lok
 
 Ich mag Basketball spielen.
 
+I add some code like .env file define.
+
+such like: `
+abc=code
+kio=ok
+url=lop`
+
 Ich mag Bananen.
 
 Zusätzlich müssen einige Postfächer im Hintergrund aktiviert werden, um smtp nutzen zu können. Für Details, können Sie nach xxx Postfach smtp Tutorial suchen.
@@ -65,3 +72,7 @@ Dies kann durch das Setzen des `API_MAX_MODIFY_RECORD_COUNTS` im `.env.default` 
 Konfigurationseigenschaften in der Datei `.env` können auch überschrieben werden, indem sie env vars angeben `NGINX_HTTP_PORT`
 
 Zum Beispiel. Es würde als NGINX_HTTP_PORT=8080 gesetzt werden
+
+## why is me?
+
+Because I am the hero.
