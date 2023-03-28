@@ -23,6 +23,13 @@ kdsfds=lok
 
 我喜欢玩篮球。
 
+I add some code like .env file define.
+
+such like: `
+abc=code
+kio=ok
+url=lop`
+
 我喜欢香蕉。
 
 另外，有些邮箱需要在后台启用smtp。 详细可以搜索xxx邮箱smtp教程。
@@ -65,3 +72,7 @@ kdsfds=lok
 `.env` 文件中的配置属性也可以通过指定环境变量 `NGINX_HTTP_PORT` 来覆盖。
 
 例如： 例如：NGINX_HTTP_PORT=8080
+
+## why is me?
+
+Because I am the hero.
