@@ -21,7 +21,7 @@ xxa=xsd
 kdsfds=lok
 ```
 
-I like play basketball.
+我喜欢玩篮球。
 
 我喜欢香蕉。
 
