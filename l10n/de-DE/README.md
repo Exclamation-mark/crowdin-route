@@ -14,9 +14,16 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
-Ich füge etwas hinzu: `
+Ich füge etwas hinzu:
+
+```
 xxa=xsd
-kdsfds=lok`
+kdsfds=lok
+```
+
+Ich mag Basketball spielen.
+
+Ich mag Bananen.
 
 Zusätzlich müssen einige Postfächer im Hintergrund aktiviert werden, um smtp nutzen zu können. Für Details, können Sie nach xxx Postfach smtp Tutorial suchen.
 
