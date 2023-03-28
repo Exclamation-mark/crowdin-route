@@ -14,6 +14,10 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
+我添加了一些东西： `
+xxa=xsd
+kdsfds=lok`
+
 另外，有些邮箱需要在后台启用smtp。 详细可以搜索xxx邮箱smtp教程。
 
 
