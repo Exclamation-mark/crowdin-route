@@ -4,3 +4,6 @@ targets:
       - '**/*.md'
     file: /l10n/%locale%/%original_file_name%
     format: xliff
+files:
+  - source: /l10n/**/*.md
+    translation: /l10n/%locale%/%original_file_name%
