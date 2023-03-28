@@ -14,9 +14,14 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
-J'ajoute quelque chose : `
+I add some thing:
+
+```
 xxa=xsd
-kdsfds=lok`
+kdsfds=lok
+```
+
+I like banana.
 
 De plus, certaines boîtes aux lettres doivent être activées en arrière-plan pour utiliser smtp. Pour plus de détails, vous pouvez rechercher le tutoriel Smtp de la boîte aux lettres xxx.
 
