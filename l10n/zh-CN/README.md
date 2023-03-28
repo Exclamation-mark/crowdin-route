@@ -23,7 +23,7 @@ kdsfds=lok
 
 我喜欢玩篮球。
 
-I add some code like .env file define.
+我添加了一些代码，如.env文件定义。
 
 such like: `
 abc=code
@@ -73,10 +73,10 @@ url=lop`
 
 例如： 例如： 例如： 例如：NGINX_HTTP_PORT=8080
 
-## why is me?
+## 为什么我？
 
-Because I am the hero.
+因为我是英雄。
 
-## How about you?
+## 你怎么办？
 
-I'm fine.
+我是好的。
