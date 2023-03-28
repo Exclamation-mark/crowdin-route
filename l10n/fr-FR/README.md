@@ -23,6 +23,13 @@ kdsfds=lok
 
 J'aime jouer au basket-ball.
 
+I add some code like .env file define.
+
+such like: `
+abc=code
+kio=ok
+url=lop`
+
 J'aime la banane.
 
 De plus, certaines boîtes aux lettres doivent être activées en arrière-plan pour utiliser smtp. Pour plus de détails, vous pouvez rechercher le tutoriel Smtp de la boîte aux lettres xxx.
@@ -65,3 +72,7 @@ Ceci peut être réalisé en définissant le paramètre `API_MAX_MODIFY_RECORD_C
 Les propriétés de configuration dans le fichier `.env` peuvent également être remplacées en les spécifiant vars env `NGINX_HTTP_PORT`
 
 Par exemple. Il serait défini comme NGINX_HTTP_PORT=8080
+
+## why is me?
+
+Because I am the hero.
