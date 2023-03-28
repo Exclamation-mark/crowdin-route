@@ -8,6 +8,8 @@ Now I add a paragraph.
 
 I add paragraph twice.
 
+`new code`
+
 ```java
 int a = 10;
 ```
