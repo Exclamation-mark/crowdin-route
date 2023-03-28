@@ -1,0 +1,6 @@
+targets:
+  - name: TestZzq
+    sources:
+      - /l10n/**/*.md
+    file: /l10n/%locale%/%original_file_name%
+    format: xliff
