@@ -7,7 +7,7 @@
 ```conf
 MAIL_ENABLED=true
 MAIL_HOST=smtp.xxx.com
-MAIL_PASSWORD=your_email_password
+MAIL_PASSSWORD=您邮箱密码
 MAIL_PORT=465
 MAIL_SSL_ENABLE=true
 MAIL_TYPE=smtp
@@ -15,6 +15,7 @@ MAIL_USERNAME=your_email
 ```
 
 另外，有些邮箱需要在后台启用smtp。 详细可以搜索xxx邮箱smtp教程。
+
 
 ## macOS M1 下 docker 运行的性能问题？
 
@@ -44,10 +45,12 @@ MAIL_USERNAME=your_email
 
 可以通过在 `room-server` 下的 `.env.default` 文件中设置 `API_MAX_MODIFY_RECORD_COUNTS` 参数来实现。
 
+
 ## 如何更新到最新的版本?
+
 
 ## 如何更改默认的80端口?
 
 `.env` 文件中的配置属性也可以通过指定环境变量 `NGINX_HTTP_PORT` 来覆盖。
 
-例如：NGINX_HTTP_PORT=8080
+例如： 例如：NGINX_HTTP_PORT=8080
