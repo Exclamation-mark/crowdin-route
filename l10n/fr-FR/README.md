@@ -23,7 +23,7 @@ kdsfds=lok
 
 J'aime jouer au basket-ball.
 
-I add some code like .env file define.
+J'ajoute du code comme la définition de fichier .env.
 
 such like: `
 abc=code
@@ -73,10 +73,10 @@ Les propriétés de configuration dans le fichier `.env` peuvent également êtr
 
 Par exemple. Il serait défini comme NGINX_HTTP_PORT=8080
 
-## why is me?
+## Pourquoi est-ce que moi?
 
-Because I am the hero.
+Parce que je suis le héros.
 
-## How about you?
+## Que diriez-vous de vous ?
 
-I'm fine.
+« Très bien. ».
