@@ -23,6 +23,13 @@ kdsfds=lok
 
 J'aime jouer au basket-ball.
 
+I add some code like .env file define.
+
+such like: `
+abc=code
+kio=ok
+url=lop`
+
 J'aime la banane.
 
 De plus, certaines boîtes aux lettres doivent être activées en arrière-plan pour utiliser smtp. Pour plus de détails, vous pouvez rechercher le tutoriel Smtp de la boîte aux lettres xxx.
@@ -42,7 +49,7 @@ Si vous êtes intéressé par les interfaces API du service cloud, vous pouvez �
 
 ## Comment définir la limitation de la quantité de widget dans le tableau de bord ? (30 par défaut)
 
-Ceci peut être réalisé en définissant le paramètre `DSB_WIDGET_MAX_COUNT` dans le fichier `.env`.
+Ceci peut être réalisé en définissant le paramètre `API_MAX_MODIFY_RECORD_COUNTS` dans le fichier `.env.default` du `room-server`.
 
 ## Puis-je augmenter la limite de taux de demande de l'IPA? (5 par défaut)
 
@@ -54,7 +61,7 @@ Dans le fichier `.env.default` de `room-server`, il y a deux paramètres qui peu
 
 ## Comment augmenter le nombre d'enregistrements insérés par appel API ? (10 par défaut)
 
-Ceci peut être réalisé en définissant le paramètre `API_MAX_MODIFY_RECORD_COUNTS` dans le fichier `.env.default` du `room-server`.
+Ceci peut être réalisé en définissant le paramètre `DSB_WIDGET_MAX_COUNT` dans le fichier `.env`.
 
 
 ## Comment mettre à jour vers la version la plus récente ?
@@ -65,3 +72,11 @@ Ceci peut être réalisé en définissant le paramètre `API_MAX_MODIFY_RECORD_C
 Les propriétés de configuration dans le fichier `.env` peuvent également être remplacées en les spécifiant vars env `NGINX_HTTP_PORT`
 
 Par exemple. Il serait défini comme NGINX_HTTP_PORT=8080
+
+## why is me?
+
+Because I am the hero.
+
+## How about you?
+
+I'm fine.
