@@ -7,9 +7,9 @@ I want to write something.
 
 this is a code.
 
-``
+`
 host=localhost
-``
+`
 
 It's pretty good.
 
