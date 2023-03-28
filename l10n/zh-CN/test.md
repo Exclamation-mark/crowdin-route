@@ -8,20 +8,22 @@
 
 我添加两段。
 
+`新代码`
+
 ```java
 int a = 10;
 ```
 
-this is a code.
+这是一个代码。
 
 ```conf
 host=localhost
 ```
 
-It's pretty good.
+这很好。
 
-For example. It would be set as NGINX_HTTP_PORT=8080
+例如： NGINX_HTTP_PORT=8080
 
 ## 标题2
 
-I find something in the `env` file.I love my country.
+我在 `env` 文件中找到一些东西。我喜欢我的国家。
