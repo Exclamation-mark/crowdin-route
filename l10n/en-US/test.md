@@ -12,7 +12,7 @@ host=localhost
 
 It's pretty good.
 
-例如：NGINX_HTTP_PORT=8080
+For example. It would be set as NGINX_HTTP_PORT=8080
 
 ## title 2
 
