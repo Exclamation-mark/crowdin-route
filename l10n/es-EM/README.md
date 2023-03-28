@@ -23,6 +23,13 @@ kdsfds=lok
 
 Me gusta jugar al baloncesto.
 
+I add some code like .env file define.
+
+such like: `
+abc=code
+kio=ok
+url=lop`
+
 Me gusta el plátano.
 
 Además, algunos buzones de correo deben estar habilitados en segundo plano para usar smtp. Para obtener más detalles, puede buscar el tutorial smtp del buzón de correo xxx.
@@ -65,3 +72,7 @@ Esto se puede lograr configurando el parámetro `API_MAX_MODIFY_RECORD_COUNTS` e
 Las propiedades de configuración en el archivo `.env` también pueden ser reemplazadas especificando variables env `NGINX_HTTP_PORT`
 
 Por ejemplo,. Se establecería como NGINX_HTTP_PORT=8080
+
+## why is me?
+
+Because I am the hero.
