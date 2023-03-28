@@ -9,9 +9,9 @@ this is a code.
 
 hh,you can run 
 
-``
+```conf
 a=b
-``
+```
 
 ```js
 console.log
