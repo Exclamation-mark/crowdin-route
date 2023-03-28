@@ -6,7 +6,7 @@
 
 现在我增加一段。
 
-I add paragraph twice.
+我添加两段。
 
 `
 int a = 10;`
