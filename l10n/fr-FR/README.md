@@ -1,8 +1,8 @@
-# 如何配置SMTP服务器？
+# How to configure the SMTP server?
 
-默认情况下，APITable 不配置SMTP服务器，这意味着您不能邀请用户，因为它需要电子邮件发送功能。
+By default, APITable doesn't configure the SMTP server, which means you cannot invite users since it require the email sending feature.
 
-需要使用自己的邮箱修改.env配置，重启 backend-server。
+It is needed to modify `.env` configuration using self email, and restart backend server.
 
 ```conf
 MAIL_ENABLED=true
@@ -14,40 +14,43 @@ MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
-另外，有些邮箱需要在后台启用smtp。 详细可以搜索xxx邮箱smtp教程。
+In addition, some mailboxes need to be enabled in the background to use smtp. For details, you can search for xxx mailbox smtp tutorial.
 
-## macOS M1 下 docker 运行的性能问题？
 
-## API文档在哪里？
+## Performance problem under macOS M1 docker run?
 
-您可以通过启动本地服务器来访问 API 文档：
+## Where is the API documentation?
 
-1. backend-server 的文档地址为: <http://localhost:8081/api/v1/doc.html>
+You can access the API documentation by starting a local server:
 
-2. room-server 的文档地址为: <http://localhost:3333/nest/v1/docs>
+1. The documentation address for the Backend server is: <http://localhost:8081/api/v1/doc.html>
 
-如果您对云服务 API 接口感兴趣，也可以直接访问 <https://developers.apitable.com/api/introduction> 获取在线 API 文档。
+2. The documentation address for the Room server is: <http://localhost:3333/nest/v1/docs>
 
-## 如何在仪表板中设置小部件数量限制？ （默认为 30）
+If you are interested in cloud service API interfaces, you can also directly access the online API documentation at <https://developers.apitable.com/api/introduction>.
 
-可以在`.env`文件中设置`DSB_WIDGET_MAX_COUNT`参数来实现。
+## How to set the limitation of widget quantity in dashboard? (30 by default)
 
-## 我可以增加 API 的请求速率限制吗？ （默认为 5）
+This can be achieved by setting the `DSB_WIDGET_MAX_COUNT` parameter in the `.env` file.
 
-在 `room-server` 下的 `.env.default` 文件中，有两个参数可以调整请求频率：
+## Can I increase request rate limit of the API? (5 by default)
 
-1. 您可以设置参数 `LIMIT_POINTS` 和 `LIMIT_DURATION` 来设置在单位时间段内可以发出的请求数。 其中 LIMIT_POINTS 是次数，LIMIT_DURATION 是持续时间，以秒为单位。
+In the `.env.default` file of `room-server`, there are two parameters that can adjust request frequency:
 
-2. 您可以设置参数 `LIMIT_WHITE_LIST` 来为特定用户设置单独的请求频率。 它的值为一个JSON字符串，其结构可以参考`Map<string, IBaseRateLimiter>`。
+1. You can set `LIMIT_POINTS` and `LIMIT_DURATION` to indicate the number of requests that can be made in a unit time period. Where LIMIT_POINTS is the number of times and LIMIT_DURATION is the duration, measured in seconds.
 
-## 如何增加每次 API 调用插入行记录的数量？ （默认为 10）
+2. You can set the parameter `LIMIT_WHITE_LIST` to set a separate request frequency for specific users. Its value is a JSON string, and its structure can refer to `Map<string, IBaseRateLimiter>`.
 
-可以通过在 `room-server` 下的 `.env.default` 文件中设置 `API_MAX_MODIFY_RECORD_COUNTS` 参数来实现。
+## How to increase the number of records inserted per API call? (10 by default)
 
-## 如何更新到最新的版本?
+This can be achieved by setting the `API_MAX_MODIFY_RECORD_COUNTS` parameter in the `.env.default` file of `room-server`.
 
-## 如何更改默认的80端口?
 
-`.env` 文件中的配置属性也可以通过指定环境变量 `NGINX_HTTP_PORT` 来覆盖。
+## How to upgrade to the newest release version?
 
-例如：NGINX_HTTP_PORT=8080
+
+## How to change the default 80 port?
+
+Configuration properties in  the `.env` file can also be overridden  by specifying them env vars `NGINX_HTTP_PORT`
+
+For example. It would be set as NGINX_HTTP_PORT=8080
