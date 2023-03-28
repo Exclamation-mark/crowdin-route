@@ -7,19 +7,21 @@
 ```conf
 MAIL_ENABLED=true
 MAIL_HOST=smtp.xxx.com
-MAIL_PASSSWORD=您邮箱密码
+MAIL_PASSWORD=your_email_password
 MAIL_PORT=465
 MAIL_SSL_ENABLE=true
 MAIL_TYPE=smtp
 MAIL_USERNAME=your_email
 ```
 
-我添加了一些东西： 
+I add some thing:
 
 ```
 xxa=xsd
 kdsfds=lok
 ```
+
+I like banana.
 
 另外，有些邮箱需要在后台启用smtp。 详细可以搜索xxx邮箱smtp教程。
 
@@ -60,4 +62,4 @@ kdsfds=lok
 
 `.env` 文件中的配置属性也可以通过指定环境变量 `NGINX_HTTP_PORT` 来覆盖。
 
-例如：NGINX_HTTP_PORT=8080
+例如： 例如：NGINX_HTTP_PORT=8080
