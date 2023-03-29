@@ -1,3 +1,5 @@
 {
-  "name": "name"
+  "name": "name",
+  "fieldA": "Field A",
+  "fieldB": "Field B"
 }
