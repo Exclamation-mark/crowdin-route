@@ -7,7 +7,15 @@ Je veux écrire quelque chose.
 
 this is a code.
 
-hh,you can run `console.log`
+hh,you can run
+
+```conf
+a=b
+```
+
+```js
+console.log
+```
 
 ```conf
 host=localhost
