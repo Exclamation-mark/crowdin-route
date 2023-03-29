@@ -31,7 +31,7 @@ host=localhost
 
 我在 `代码` 中找到一些东西。
 
-例如： NGINX_HTTP_PORT=8080
+例如： 例如： NGINX_HTTP_PORT=8080
 
 ### Question
 
