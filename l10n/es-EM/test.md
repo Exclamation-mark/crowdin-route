@@ -25,7 +25,7 @@ host=localhost
 
 # I add paragraph for the `code` again.
 
-I find something in `code`.
+I find something in code.
 
 Es bastante bueno.
 
