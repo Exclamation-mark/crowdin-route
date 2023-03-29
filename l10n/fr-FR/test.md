@@ -2,7 +2,7 @@
 
 Je veux écrire quelque chose.
 
-## code
+### code
 
 
 this is a code.
@@ -33,6 +33,6 @@ do something here.
 
 # What is H?
 
-## titre 2
+## title 2
 
 I find something in the `env` file.I love my country.
