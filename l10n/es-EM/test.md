@@ -29,7 +29,7 @@ I find something in `code`.
 
 Por ejemplo,. Se establecería como NGINX_HTTP_PORT=8080
 
-## Question
+### Question
 
 Now I have a source file, it is in English, I have translated it into Chinese, I configured Github Integration, if I change a paragraph in the source file to a H1 tag, then in my translated In the Chinese result, all the paragraphs after this paragraph are changed back to English defined in the source file. Is this a bug?
 
