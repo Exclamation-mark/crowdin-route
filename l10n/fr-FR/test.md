@@ -21,6 +21,10 @@ console.log
 host=localhost
 ```
 
+```text
+I add paragraph for the `code`.
+```
+
 It's pretty good.
 
 For example. It would be set as NGINX_HTTP_PORT=8080
