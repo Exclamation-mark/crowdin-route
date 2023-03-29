@@ -23,12 +23,12 @@ host=localhost
 
 # I add paragraph for the `code`.
 
-J'ajoute à nouveau le paragraphe pour le code ``.
+# I add paragraph for the `code` again.
 
-C'est plutôt bien.
+It's pretty good.
 
-Par exemple. Il serait défini comme NGINX_HTTP_PORT=8080
+For example. It would be set as NGINX_HTTP_PORT=8080
 
 ## titre 2
 
-Je trouve quelque chose dans le fichier `env` . J'aime mon pays.
+I find something in the `env` file.I love my country.
