@@ -21,7 +21,7 @@ console.log
 host=localhost
 ```
 
-# 我在 `代码` 中添加一段。
+# I add paragraph for the code.
 
 # I add paragraph for the `code` again.
 
