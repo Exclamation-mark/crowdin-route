@@ -3,7 +3,7 @@
 
 this is paragraph 1.
 
-## title 2
+### title 2
 
 this is paragraph 2.
 
