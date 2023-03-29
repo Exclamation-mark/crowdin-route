@@ -20,7 +20,7 @@ console.log
 `
 host=localhost`
 
-It's pretty good.
+这很好。
 
 例如： NGINX_HTTP_PORT=8080
 
