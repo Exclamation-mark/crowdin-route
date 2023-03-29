@@ -1,8 +1,8 @@
-# How to configure the SMTP server?
+# 如何配置SMTP服务器？
 
-By default, APITable doesn't configure the SMTP server, which means you cannot invite users since it require the email sending feature.
+默认情况下，APITable 不配置SMTP服务器，这意味着您不能邀请用户，因为它需要电子邮件发送功能。
 
-It is needed to modify `.env` configuration using self email, and restart backend server.
+需要使用自己的邮箱修改.env配置，重启 backend-server。
 
 ```conf
 MAIL_ENABLED=true
