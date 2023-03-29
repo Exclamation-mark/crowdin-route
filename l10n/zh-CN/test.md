@@ -21,13 +21,13 @@ console.log
 host=localhost
 ```
 
-## I add paragraph for the code.
+## 我再次为 `代码` 添加段落。
 
-# 我再次为 `代码` 添加段落。
+# 我在 代码 中添加一段。
 
 我在 `代码` 中找到一些东西。
 
-例如： NGINX_HTTP_PORT=8080
+例如： 例如： NGINX_HTTP_PORT=8080
 
 ### Question
 
@@ -37,6 +37,6 @@ Now I have a source file, it is in English, I have translated it into Chinese, I
 
 # 他是什么？
 
-## title 2
+## 标题2
 
-我在 `env` 文件中找到一些东西。我喜欢我的国家。
+我在 `env` 文件中找到一些东西。 我喜欢我的国家。
