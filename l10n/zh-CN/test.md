@@ -21,14 +21,12 @@ console.log
 host=localhost
 ```
 
-```text
-我在“代码”中增加一段。
-```
+I add paragraph for the `code`.
 
-这很好。
+It's pretty good.
 
-例如： NGINX_HTTP_PORT=8080
+For example. It would be set as NGINX_HTTP_PORT=8080
 
 ## 标题2
 
-我在 `env` 文件中找到一些东西。我喜欢我的国家。
+I find something in the `env` file.I love my country.
