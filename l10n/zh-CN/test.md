@@ -21,9 +21,9 @@ console.log
 host=localhost
 ```
 
-## add title one
+### add title one
 
-## add title two
+### add title two
 
 ## I add paragraph for the code.
 
@@ -33,7 +33,7 @@ host=localhost
 
 例如： NGINX_HTTP_PORT=8080
 
-### 添加标题一
+### Question
 
 现在我有一个源文件，用英语，我已将其翻译成中文。 我配置了 Github 集成，如果我将源文件中的一个段落更改为 H1 标签。 在中文的结果中，本段之后的所有段落都被重置为源文件中定义的英文。 这是错误吗？
 
