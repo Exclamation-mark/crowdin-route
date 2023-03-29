@@ -21,9 +21,7 @@ console.log
 host=localhost
 ```
 
-```text
 I add paragraph for the `code`.
-```
 
 It's pretty good.
 

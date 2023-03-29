@@ -21,9 +21,7 @@ console.log
 host=localhost
 ```
 
-```text
-我在“代码”中增加一段。
-```
+我在 `代码` 中添加一段。
 
 这很好。
 
