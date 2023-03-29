@@ -17,13 +17,12 @@ a=b
 console.log
 ```
 
-```conf
-host=localhost
-```
+`
+host=localhost`
 
 这很好。
 
-For example. NGINX_HTTP_PORT=8080
+例如： NGINX_HTTP_PORT=8080
 
 ## 标题2
 
