@@ -23,15 +23,15 @@ host=localhost
 
 ## 我再次为 `代码` 添加段落。
 
-# 我在 代码 中添加一段。
+# 我再次为 `代码` 添加段落。
 
 我在 `代码` 中找到一些东西。
 
-例如： 例如： NGINX_HTTP_PORT=8080
+例如： NGINX_HTTP_PORT=8080
 
-### Question
+### 问题
 
-Now I have a source file, it is in English, I have translated it into Chinese, I configured Github Integration, if I change a paragraph in the source file to a H1 tag, then in my translated In the Chinese result, all the paragraphs after this paragraph are changed back to English defined in the source file. Is this a bug?
+现在我有一个源文件，用英语，我已将其翻译成中文。 我配置了 Github 集成，如果我将源文件中的一个段落更改为 H1 标签。 在中文的结果中，本段之后的所有段落都被重置为源文件中定义的英文。 这是错误吗？
 
 在这里做一些事情。
 
