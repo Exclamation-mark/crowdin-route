@@ -25,7 +25,7 @@ host=localhost
 
 # 我再次为 `代码` 添加段落。
 
-我在 代码 中找到一些东西。
+I find something in `code`.
 
 这很好。
 
