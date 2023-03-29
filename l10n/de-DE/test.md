@@ -21,9 +21,11 @@ console.log
 host=localhost
 ```
 
-# I add paragraph for the `code`.
+# I add paragraph for the code.
 
-I add paragraph for the `code` again.
+# I add paragraph for the `code` again.
+
+I find something in `code`.
 
 It's pretty good.
 
