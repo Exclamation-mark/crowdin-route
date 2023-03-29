@@ -27,8 +27,6 @@ host=localhost
 
 I find something in `code`.
 
-Es bastante bueno.
-
 Por ejemplo,. Se establecería como NGINX_HTTP_PORT=8080
 
 ## title 2
