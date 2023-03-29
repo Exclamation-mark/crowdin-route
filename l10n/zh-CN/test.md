@@ -23,9 +23,9 @@ host=localhost
 
 ### 添加标题一
 
-## 添加标题二
+### add title two
 
-## 我在 代码 中添加一段。
+## I add paragraph for the code.
 
 # 我再次为 `代码` 添加段落。
 
@@ -33,7 +33,7 @@ host=localhost
 
 例如： NGINX_HTTP_PORT=8080
 
-### 问题
+### Question
 
 现在我有一个源文件，用英语，我已将其翻译成中文。 我配置了 Github 集成，如果我将源文件中的一个段落更改为 H1 标签。 在中文的结果中，本段之后的所有段落都被重置为源文件中定义的英文。 这是错误吗？
 
@@ -41,6 +41,6 @@ host=localhost
 
 # 他是什么？
 
-## 标题2
+## title 2
 
 我在 `env` 文件中找到一些东西。 我喜欢我的国家。
