@@ -1,4 +1,4 @@
-# titre 1
+# title 1
 
 Je veux écrire quelque chose.
 
@@ -21,7 +21,7 @@ console.log
 host=localhost
 ```
 
-I add paragraph for the `code`.
+# I add paragraph for the `code`.
 
 It's pretty good.
 
