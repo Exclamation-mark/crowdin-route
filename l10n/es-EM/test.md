@@ -17,8 +17,9 @@ a=b
 console.log
 ```
 
-`
-host=localhost`
+```conf
+host=localhost
+```
 
 It's pretty good.
 
