@@ -27,8 +27,6 @@ host=localhost
 
 I find something in `code`.
 
-这很好。
-
 例如： NGINX_HTTP_PORT=8080
 
 ## 标题2
