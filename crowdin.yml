@@ -9,3 +9,5 @@ files:
     translation: /l10n/%locale%/%original_file_name%
   - source: /l10n/en-US/*.json
     translation: /l10n/%locale%/%original_file_name%
+  - source: /l10n/en-US/*.png
+    translation: /l10n/%locale%/%original_file_name%
