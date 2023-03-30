@@ -43,7 +43,7 @@ do something here.
 
 ## title 2
 
-I find something in the `env` file.I love my country.
+I find something in the `env` file. I love my country.
 
 ## title 3
 
